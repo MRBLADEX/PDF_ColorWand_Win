@@ -14,17 +14,17 @@
 1. 原文件：白底黑字图片PDF
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/PDF_ColorWand_Win/blob/main/intro/input.png">
+  <img src="https://github.com/MRBLADEX/PDF_ColorWand_Win/blob/master/intro/input.png">
 </div>
 
 2. 加载文件，设置灰底绿字
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/PDF_ColorWand_Win/blob/main/intro/screen.png">
+  <img src="https://github.com/MRBLADEX/PDF_ColorWand_Win/blob/master/intro/screen.png">
 </div>
 
 3. 输出文件效果
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/PDF_ColorWand_Win/blob/main/intro/output.png">
+  <img src="https://github.com/MRBLADEX/PDF_ColorWand_Win/blob/master/intro/output.png">
 </div>
